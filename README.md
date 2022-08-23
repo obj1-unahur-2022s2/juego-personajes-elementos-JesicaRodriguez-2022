@@ -16,7 +16,7 @@ Además: debemos manejar el _nivel de defensa_ del `castillo` (un valor numéric
 
 <br>
 
-## Encuentro entre personaje y elemento. 
+## Encuentro entre personaje y elemento... 
 
 El programa debe resolver el encuentro entre un personaje y un elemento.
 
